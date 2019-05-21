@@ -1,2 +1,2 @@
-# Internal
-Internal Repo
+# Private Repo
+{ Hidden from Unauthorized Users }
